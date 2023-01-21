@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Miller</h3>
+<h2 align="center">A passionate data scientist - Miller Puentes </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=millerpuentes&label=Profile%20views&color=0e75b6&style=flat" alt="millerpuentes" /> </p>
 
